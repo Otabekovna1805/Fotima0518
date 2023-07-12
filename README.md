@@ -1,8 +1,11 @@
+ 💫 About me: 
 - 👋 Hi, I’m Fotima
-- 🪐 I’m interested creat mobile application 
+- 👩🏼‍🎓 I'm study at PDP Acedemy
+- 🪐 I’m interested creat mobile applications 
 - 📝 I’m currently learning Flutter
-- 🔎 I’m currently learning in English
+- 🔎 I’m currently learning English
 - 🤝 I’m looking to collaborate on Flutter project
+- 💬 Ask me about: Flutter, OOP(Object Oriented Programming), Dart or the questions you are interested in
 - 📫 How to reach me: Tashkent
 
 <!---
